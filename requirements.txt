@@ -1,5 +1,5 @@
-transformers==4.29.2
-accelerate==0.19.0
+transformers
+accelerate
 datasets
 pysbd
 wandb
@@ -8,8 +8,8 @@ nltk
 spacy
 ersatz
 iso-639
-scikit-learn==1.2.2
-numpy==1.23.5
+scikit-learn
+numpy
 pydantic
 torchinfo
 conllu
@@ -23,4 +23,4 @@ cached_property
 tqdm
 skops
 pandas
-protobuf==3.20
+protobuf
